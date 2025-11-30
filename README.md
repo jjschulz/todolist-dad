@@ -1,8 +1,11 @@
 # Todolist
 
 stuff to do
+
 -download npm
+
 -download angular: npm install -g @angular/cli
+
 -then you can say ng serve
 
 

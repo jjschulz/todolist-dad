@@ -1,5 +1,24 @@
 # Todolist
 
+stuff to do
+-download npm
+-download angular: npm install -g @angular/cli
+-then you can say ng serve
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.1.
 
 ## Development server

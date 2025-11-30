@@ -1,6 +1,6 @@
 # Todolist
 
-stuff to do
+## stuff to do to get it running on your laptop:
 
 -download npm
 
@@ -8,7 +8,19 @@ stuff to do
 
 -then you can say ng serve
 
+## dad:
 
+- search for existing apps like this
+-
+- get back end running
+
+- checkin working code to git
+
+- Johnna get spreadsheet demo app working, checkin code
+
+- Both conspire to workout communications layout between front and back ends
+
+-  
 
 
 
